@@ -64,3 +64,5 @@ The following table contains a list of support Types in this library.
 | Resolver      | https://codesandbox.io/s/react-hook-form-resolver-rvspp           |
 | UseFormReturn | https://codesandbox.io/s/react-hook-form-useformmethods-e3411     |
 | Control       | https://codesandbox.io/s/react-hook-form-control-forked-giq0e     |
+
+Author: Artur
